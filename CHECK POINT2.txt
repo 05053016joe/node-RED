@@ -1,0 +1,1 @@
+[{"id":"d26da88e.406e58","type":"http request","z":"b438b619.bcffd8","name":"","method":"GET","ret":"txt","url":"http://api.mediatek.com/mcs/v2/devices/DpwJPYEJ/datachannels/DTS11W/datapoints.csv","tls":"","x":470,"y":220,"wires":[["d1ea7d60.6b79b","465ddcda.0a23e4"]]}]
